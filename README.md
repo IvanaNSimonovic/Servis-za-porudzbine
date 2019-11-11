@@ -1,6 +1,20 @@
 Servis za porudžbine
+
 Nama najdraža picerija Braško++ raspisala je konkurs za java programere kako bi automatizovala proces naručivanja pice. Deo ponude dat
-je tabelarno.
+je ispod.
+
+Naziv            Sastojci
+Capricciosa   Kačkavalj, Šunka, Pečurke
+Pepperoni     Kačkavalj, Čajna
+Vesuvio       Čajna, Pečurke, Šunka
+Kombinacija      ...   
+
+Sastojak    Id Cena
+Kačkavalj   2  50
+Šunka       3  40
+Pečurke     5  30
+Čajna       7  40
+
 
 Cena pizze bez sastojaka iznosi 200din. Ukoliko pizza nije u ponudi nazovite jeKombinacija. Ukoliko sastojak nije u ponudi ispisati
 korisniku: Greška, željeni sastojak ne postoji u bazi podataka. Pokušajte ponovo .
